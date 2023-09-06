@@ -10,4 +10,3 @@ R code to replicate analyses from the Leopard-ecoCompetition paper. Required dat
 
 The code should be run in sequence. The results might slightly differ from those included in the paper as the code includes multiple stochastic processes that could influence the results.
 
-![leopard-PCAinterpretacia.pdf](https://github.com/nmartinkova/Leopard-ecoCompetition/files/12537277/leopard-PCAinterpretacia.pdf)
